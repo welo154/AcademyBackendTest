@@ -1,0 +1,23 @@
+# Visual Studio
+.vs/
+**/.vs/
+
+# Build output
+bin/
+obj/
+**/bin/
+**/obj/
+
+# SQLite local database
+*.db
+*.db-shm
+*.db-wal
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
